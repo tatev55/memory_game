@@ -1,0 +1,16 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  background-color: #89D7B3;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.title{
+  color:#0A416B;
+  font-size: 40px;
+}
+
+
+
