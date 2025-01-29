@@ -1,0 +1,19 @@
+.game-board-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.description-game{
+   margin: 15px 0;
+    color:#268286;
+}
+
+.box-cards{
+    width: 550px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}

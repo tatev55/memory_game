@@ -1,16 +1,14 @@
 .App {
   height: 100vh;
   text-align: center;
-  background-color: #89D7B3;
+  background-color: #bbe7d4;
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
 }
 
-.title{
-  color:#0A416B;
-  font-size: 40px;
-}
+
 
 
 

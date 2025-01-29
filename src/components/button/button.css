@@ -1,0 +1,57 @@
+.button-startGame{
+    width: 400px;
+    height: 50px;
+    margin-top: 40px;
+    font-size: 20px;
+    background-color: #105D7A;
+    color: white;
+    border-radius: 10px;
+    border: 0;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 3px, rgba(0, 0, 0, 0.24) 0px 1px 2px;
+}
+
+.button-startGame:hover{
+    background-color: gray;
+}
+
+
+.play-again-button{
+    width: 100px;
+    height: 40px;
+    background-color: #043951;
+    color: white;
+    border: 0;
+    border-radius: 10px;
+    cursor: pointer;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+
+}
+
+.play-again-button:hover{
+    background-color: #0C897B
+}
+
+.hide{
+    width: 120px;
+    height: 50px;
+    background-color: #27A55E;
+    border: 4px solid #a2e8c4;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 40px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+    cursor: pointer;
+}
+
+.hide:hover{
+    background-color: #2ecc71;
+}
+
+.btn-check{
+    width: 50%;
+    height: 50px;
+    background-color: #105D7A;
+    color: white;
+    border-radius: 10px;
+    border: 0;
+}

@@ -1,11 +1,10 @@
-import Main from "./components/main/main"
+import GameControls from "./components/game-сontrols/game-controls"
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <h1 className='title'>Memory Game</h1>
-      <Main />
+      <GameControls/>
     </div>
   );
 }
